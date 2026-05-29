@@ -46,3 +46,7 @@ Dataset inspection showed no missing values and no duplicate records. The prepro
 ## Output
 
 output/cleaned_netflix.csv
+
+Conclusion
+
+The Netflix dataset was successfully inspected, cleaned, and validated using Python and Pandas. The dataset was checked for missing values, duplicate records, inconsistent formatting, and data type issues. A cleaned dataset was generated and saved for future analysis and visualization tasks.
